@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mhs>
+ <Mahasiswa>
+   <Nim>17.01.63.0001</Nim>
+   <Nama>M Hanif Fadhlillah</Nama>
+   <Alamat>Jl. Pamularsih Semarang</Alamat>
+   <Prodi>Teknik Informatika</Prodi>
+   <br></br>
+ </Mahasiswa>
+
+ <Mahasiswa>
+   <Nim>17.01.63.0002</Nim>
+   <Nama>Istoro Waluyo</Nama>
+   <Alamat>Jl. Sriwijaya Semarang</Alamat>
+   <Prodi>Teknik Informatika</Prodi>
+   <br></br>
+ </Mahasiswa>
+
+ <Mahasiswa>
+   <Nim>17.01.63.0003</Nim>
+   <Nama>Ahmad Saqib</Nama>
+   <Alamat>Jl. Raden Patah Semarang</Alamat>
+   <Prodi>Teknik Informatika</Prodi>
+   <br></br>
+ </Mahasiswa>
+
+ <Mahasiswa>
+   <Nim>17.01.63.0004</Nim>
+   <Nama>Daud Yusuf</Nama>
+   <Alamat>Jl. Sawah Besar Semarang</Alamat>
+   <Prodi>Teknik Informatika</Prodi>
+   <br></br>
+ </Mahasiswa>
+</mhs> 
+
